@@ -4,7 +4,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am a Mobile Developer with over three years of professional experience in building applications with React Native. My expertise also includes a strong understanding of the React ecosystem and Javascript.
+- 🤔 &nbsp; I am a Mobile Developer with over four years of professional experience in building applications with React Native. My expertise also includes a strong understanding of the React ecosystem and Javascript.
 Throughout my career, I have worked on a diverse range of projects, developing and deploying high-quality applications using various tools and technologies. My technical stack includes but is not limited to Javascript, React Native, React, Typescript, Redux, Node.js/Express, and more.
 Overall, I am committed to utilizing my skills and expertise to develop creative and impactful mobile applications that help businesses and individuals achieve their goals.
 
